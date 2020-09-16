@@ -6,4 +6,11 @@ The BestSports web store
 
 ## Steps
 1. Created base template using PowerShell.
-2. Added
+2. followed all the steps in chapter 7.
+
+##First running page
+This is a picture of the beggining page for the project at its intial startup
+![FirstBuild](FirstBuild.PNG)
+---
+##This is the final look after the fist chapter was completed
+![FinalPageCH1](Stage%20one%20complete.PNG)
