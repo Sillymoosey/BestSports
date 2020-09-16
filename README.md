@@ -19,4 +19,4 @@ This is a picture of the beggining page for the project at its intial startup
 
 ## These are the final snapshots for the Chapter 8
 ![shoppingcart](ShoppingcartCH8.PNG)
-![stagetwo](Stage%20one%20complete.PNG)
+![stagetwo](StagetwoCH8.PNG)
