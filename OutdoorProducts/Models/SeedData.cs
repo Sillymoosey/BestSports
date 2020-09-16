@@ -19,7 +19,7 @@ namespace OutdoorProducts.Models
 
             if (context.Database.GetPendingMigrations().Any())
             {
-                context.Database.Migrate();
+                //context.Database.Migrate();
             }
 
             if (!context.Products.Any())
