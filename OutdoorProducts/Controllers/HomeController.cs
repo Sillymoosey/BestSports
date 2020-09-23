@@ -26,6 +26,7 @@ namespace OutdoorProducts.Controllers
                 .Skip((productPage - 1) * PageSize)
                 .Take(PageSize),
                 PagingInfo = new PagingInfo
+
                 {
                     CurrentPage = productPage,
                     ItemsPerPage = PageSize,
