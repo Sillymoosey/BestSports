@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Linq;
+
 namespace OutdoorProducts.Models
 {
     public class EFOrderRepository : IOrderRepository

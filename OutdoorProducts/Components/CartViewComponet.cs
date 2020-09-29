@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using OutdoorProducts.Models;
-namespace SportsStore.Components
+
+namespace OutdoorProducts.Components
 {
     public class CartSummaryViewComponent : ViewComponent
     {
