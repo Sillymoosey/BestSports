@@ -9,7 +9,7 @@ The BestSports web store
 2. followed all the steps in chapter 7 - started the cart and products list.
 3. followed all steps of chapter 8 - finished the Checkout and cart.
 4. followed all steps of chapter 9 - added Razor Pages.
-5. followed all steps of chapter 10 - Added Blazor Pages.
+5. followed all steps of chapter 10 - added Blazor Pages.
 ## First running page
 This is a picture of the beggining page for the project at its intial startup
 ![FirstBuild](FirstBuild.PNG)
