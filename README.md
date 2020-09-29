@@ -6,10 +6,10 @@ The BestSports web store
 
 ## Steps
 1. Created base template using PowerShell.
-2. followed all the steps in chapter 7.
-3. followed all steps of chapter 8.
-4. followed all steps of chapter 9.
-
+2. followed all the steps in chapter 7 - started the cart and products list.
+3. followed all steps of chapter 8 - finished the Checkout and cart.
+4. followed all steps of chapter 9 - added Razor Pages.
+5. followed all steps of chapter 10 - Added Blazor Pages.
 ## First running page
 This is a picture of the beggining page for the project at its intial startup
 ![FirstBuild](FirstBuild.PNG)
@@ -29,3 +29,10 @@ This is a picture of the beggining page for the project at its intial startup
 ![CheckoutV1](Checkout%20v1.PNG)
 ![CheckoutV2](Checkout%20V2.PNG)
 ![CheckoutV3](Checkout%20V3.PNG)
+
+---
+
+## These are Chapter 10 snapshots
+![AdminP](AdminProducts.PNG)
+![AdminO](AdminOrders.PNG)
+![Create](AdminCreate.PNG)
