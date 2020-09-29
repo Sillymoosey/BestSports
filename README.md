@@ -7,6 +7,8 @@ The BestSports web store
 ## Steps
 1. Created base template using PowerShell.
 2. followed all the steps in chapter 7.
+3. followed all steps of chapter 8.
+4. followed all steps of chapter 9.
 
 ## First running page
 This is a picture of the beggining page for the project at its intial startup
@@ -20,3 +22,10 @@ This is a picture of the beggining page for the project at its intial startup
 ## These are the final snapshots for the Chapter 8
 ![shoppingcart](ShoppingcartCH8.PNG)
 ![stagetwo](StagetwoCH8.PNG)
+
+---
+
+## These are the final snapshots of Chapter 9
+![CheckoutV1](Checkout%20v1.PNG)
+![CheckoutV2](Checkout%20V2.PNG)
+![CheckoutV3](Checkout%20V3.PNG)
