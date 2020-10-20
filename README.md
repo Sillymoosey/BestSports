@@ -10,6 +10,8 @@ The BestSports web store
 3. followed all steps of chapter 8 - finished the Checkout and cart.
 4. followed all steps of chapter 9 - added Razor Pages.
 5. followed all steps of chapter 10 - added Blazor Pages.
+6. followed all steps of chapter 11 - added secure login for admin section.
+
 ## First running page
 This is a picture of the beggining page for the project at its intial startup
 ![FirstBuild](FirstBuild.PNG)
@@ -36,3 +38,9 @@ This is a picture of the beggining page for the project at its intial startup
 ![AdminP](AdminProducts.PNG)
 ![AdminO](AdminOrders.PNG)
 ![Create](AdminCreate.PNG)
+
+---
+
+## Images of Chapter 11
+![Adminlog1](AdminLogin.PNG)
+![Adminlog2](AdminLogin2.PNG)
